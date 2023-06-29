@@ -1,7 +1,7 @@
 ### Hi there 👋
-Meu nome é Gabriel Araujo, atualmente sou estudande e estou cursando Sistemas de informação na FIAP (Faculdade de Informática e Administração Paulista), atualmente estou no segundo semestre da faculdade com previsão de termino em 2027.
+Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas de informação na FIAP (Faculdade de Informática e Administração Paulista), estou no segundo semestre da faculdade com previsão de termino em 2027.
 
-- 🌱 Atualmeet estou estudando HTML5, CSS3 e JavaScript
+- 🌱 Atualmente estou estudando HTML5, CSS3 e JavaScript
 - 📫 E-mail para contato : Gabbriel.araujo@outlook.com
 
 
