@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Bieelx&theme=radicaln&hide_border=true&include_all_commits=false&count_private=false"  width="364px" />
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Bieelx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Bieelx&theme=dracula&hide_border=true&include_all_commits=false&count_private=false"  width="364px" />
+<img scr="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Bieelx&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 
