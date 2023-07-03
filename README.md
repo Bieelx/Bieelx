@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there (Obi-Wan vibes)👋
 Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas de informação na FIAP (Faculdade de Informática e Administração Paulista), estou no segundo semestre da faculdade com previsão de termino em 2027.
 
 - 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript e Phyton
