@@ -13,11 +13,11 @@ Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas d
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Bieelx&theme=onedark&hide_border=true&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bieelx&theme=onedark&hide_border=true"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Bieelx&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bieelx&theme=midnight-purple&hide_border=true"  width="400px" />
 
 
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Bieelx&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Bieelx&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
