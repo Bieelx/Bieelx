@@ -1,8 +1,8 @@
 ### Hello there (Obi-Wan vibes)👋
 Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas de informação na FIAP (Faculdade de Informática e Administração Paulista), estou no segundo semestre da faculdade com previsão de termino em 2026.
 
-- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript e Phyton
-- 📫 E-mail para contato : Gabbriel.araujo@outlook.com
+- 🌱 Atualmente estou estudando React, MySQL e Python
+- 📫 E-mail para contato : gabbriel.araujo@outlook.com
 
 
 # 💻 Tech Stack
@@ -13,11 +13,8 @@ Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas d
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Bieelx&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bieelx&theme=shadow_red&hide_border=true"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Bieelx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bieelx&theme=shadow_red&hide_border=false"  width="400px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Bieelx&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Bieelx&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
