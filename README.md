@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas de informação na FIAP (Faculdade de Informática e Administração Paulista), estou no segundo semestre da faculdade com previsão de termino em 2026.<br><br>- 🔭 Atualmente uso um Macbook Air M2 / 8gb<br>- 📚 Estou focando meus estudos em Python, Sql e React<br>- ⚡ Gosto de ir à academia e ficar com a minha namorada em meu tempo livre</p>
+<p align="left">Meu nome é Gabriel Araujo, atualmente sou estudante e estou cursando Sistemas de informação na FIAP (Faculdade de Informática e Administração Paulista), estou no segundo semestre da faculdade com previsão de termino em 2026.<br><br>- 🔭 Atualmente uso um Macbook Air M2 / 8gb<br>- 📚 Estou focando meus estudos em Java, JavaScript e pyhton para data science<br>- ⚡ Gosto de ir à academia e ficar com a minha namorada em meu tempo livre</p>
 
 ###
 
